@@ -1,4 +1,4 @@
-[---
+---
 permalink: /terms/
 title: "Terms and Privacy Policy"
 modified: 2024-03-06
